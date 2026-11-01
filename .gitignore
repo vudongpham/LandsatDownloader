@@ -1,0 +1,7 @@
+tmp
+build
+*.egg-info
+__pycache__/
+.pytest_cache/
+*.part
+secret*.txt
